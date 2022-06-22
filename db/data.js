@@ -49,4 +49,4 @@ const Brainly = mongoose.Schema({
 
 // export model
 
-module.exports = mongoose.model('sitemap_2015-03_1.xml', Brainly);
+module.exports = mongoose.model('sitemap_2015-04_1.xml', Brainly);
